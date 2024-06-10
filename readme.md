@@ -21,4 +21,4 @@ feature i have implemented as extra features
 - Implementation of elastic collision that takes into account speed, mass, and angle of balls.
 
 
-- Stress Test: Test with 500 balls. Expect minimal or acceptable Lag. -- i have got minimal lag on my device -- here is link for that demo with same code but 500 balls
+- Stress Test: Test with 500 balls. Expect minimal or acceptable Lag. -- i have got minimal lag on my device 
